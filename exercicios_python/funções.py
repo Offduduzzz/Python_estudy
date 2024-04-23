@@ -1,3 +1,5 @@
-def minha_funcao(nome):
-    print(nome + ', prazer')
-minha_funcao('Dudu')
+def soma (x, y, z ):
+    print(x + y + z)
+    
+soma(5, 10, 15)
+soma(10, -6, 14)
