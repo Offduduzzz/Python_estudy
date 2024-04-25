@@ -1,5 +1,5 @@
-def soma (x, y, z ):
-    print(x + y + z)
+def multiplicacao(*args):
     
-soma(5, 10, 15)
-soma(10, -6, 14)
+    return(10+5)
+
+multiplicacao()
